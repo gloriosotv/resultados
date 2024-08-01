@@ -1,0 +1,8 @@
+sports_website/
+├── app.py
+├── data/
+│   └── data.db
+├── static/
+│   └── style.css
+└── templates/
+    └── index.html
